@@ -10,7 +10,7 @@ To use any data contained in this repository contact Joah at j.r.madden@exeter.a
 
 ### code/
 
-The data for the following [code/](https://github.com/CBeardsworth/pheasant_spacog_movement/code) sections are found in [data/](https://github.com/CBeardsworth/pheasant_spacog_movement/data), apart from the full filtered movement dataset (used in `1_cleaning and run HMM.R`) as it is too large to be included here. Figures created using this code are stored in `figs/`
+The data for the following [code/](https://github.com/CBeardsworth/pheasant_spacog_movement/blob/master/code) sections are found in [data/](https://github.com/CBeardsworth/pheasant_spacog_movement/blob/master/data)), apart from the full filtered movement dataset (used in `1_cleaning and run HMM.R`) as it is too large to be included here. Figures created using this code are stored in `figs/`
 
 - `1_cleaning and run HMM.R`: Some extra cleaning of pheasant movement data and subsetting so that only birds that have 7 days of data (of at least 6 hours) are present in the dataset. The beginning section R code is an example only as the data is not available on this repository. The data can be retrieved from Christine or Joah. However, the code shows how the subsequent files that are included here are created and how we ran Hidden Markov models. 
 - `2_Choose HMM and describe states and HRs.R`: This code shows how we chose the best HMM to describe state transitions. We also use the same dataset to create HRs that are shown in Fig 2 of the manuscript. 
