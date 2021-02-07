@@ -2,7 +2,7 @@
 
 _Christine E. Beardsworth, Mark A. Whiteside, Lucy A. Capstick, Philippa R. Laker, Ellis JG Langley, Ran Nathan, Yotam Orchan, Sivan Toledo, Jayden O. van Horik, Joah R. Madden_
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4516392.svg)](https://doi.org/10.5281/zenodo.4516392)
 
 For any questions about the code please contact Christine at c.e.beardsworth@gmail.com
 
